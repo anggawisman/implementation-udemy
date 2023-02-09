@@ -1,0 +1,29 @@
+{
+  "name": "implementation-udemy",
+  "version": "1.0.0",
+  "description": "Implementing udemy NodeJs section",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anggawisman/implementation-udemy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anggawisman/implementation-udemy/issues"
+  },
+  "homepage": "https://github.com/anggawisman/implementation-udemy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.8",
+    "slugify": "^1.6.5"
+  }
+}
